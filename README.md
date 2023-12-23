@@ -31,3 +31,5 @@ Note: Running this command leaves a headless browser behind, causing non-determi
 # Linux
 
 ```google-chrome --headless --remote-debugging-port=9222 --disable-web-security --user-data-dir="~/.config/google-chrome/default" --disable-plugins https://clr2of8.github.io/CookieCrimesJS/```
+
+
